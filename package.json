@@ -1,0 +1,24 @@
+{
+  "name": "postgresql-test",
+  "version": "1.0.0",
+  "description": "postgres full search test",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Glacian22/PostgreSQL-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Glacian22/PostgreSQL-test/issues"
+  },
+  "homepage": "https://github.com/Glacian22/PostgreSQL-test#readme",
+  "dependencies": {
+    "sequelize": "^5.21.5",
+    "sequelize-cli": "^5.5.1"
+  }
+}
